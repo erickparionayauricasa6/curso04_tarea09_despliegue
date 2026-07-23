@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="epariona_curso04_tarea02.API/epariona_curso04_tarea02.API.csproj" />
+  <Project Path="epariona_curso04_tarea02.Application/epariona_curso04_tarea02.Application.csproj" />
+  <Project Path="epariona_curso04_tarea02.Domain/epariona_curso04_tarea02.Domain.csproj" />
+  <Project Path="epariona_curso04_tarea02.Infrastructure/epariona_curso04_tarea02.Infrastructure.csproj" />
+</Solution>

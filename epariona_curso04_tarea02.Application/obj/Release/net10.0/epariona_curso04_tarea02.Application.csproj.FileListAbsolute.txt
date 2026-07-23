@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\bin\Release\net10.0\epariona_curso04_tarea02.Application.deps.json
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\bin\Release\net10.0\epariona_curso04_tarea02.Application.dll
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\bin\Release\net10.0\epariona_curso04_tarea02.Application.pdb
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\bin\Release\net10.0\epariona_curso04_tarea02.Domain.dll
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\bin\Release\net10.0\epariona_curso04_tarea02.Domain.pdb
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\epariona_curso04_tarea02.Application.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\epariona_curso04_tarea02.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\epariona_curso04_tarea02.Application.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\epariona_curso04_tarea02.Application.AssemblyInfo.cs
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\epariona_curso04_tarea02.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\epariona.8895A762.Up2Date
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\epariona_curso04_tarea02.Application.dll
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\refint\epariona_curso04_tarea02.Application.dll
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\epariona_curso04_tarea02.Application.pdb
+C:\Users\PC\Desktop\curso04_netcore\epariona_curso04_tarea09_despliegue\epariona_curso04_tarea02.Application\obj\Release\net10.0\ref\epariona_curso04_tarea02.Application.dll
